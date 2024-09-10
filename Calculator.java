@@ -1,8 +1,8 @@
 import java.util.Scanner;
 public class Calculator{
     //Arithmetic Calculator
-    public int division(int a, int b){
-        return a/b;
+    public int modulus(int a, int b){
+        return a%b;
     }
     
     public int addition(int a, int b){
