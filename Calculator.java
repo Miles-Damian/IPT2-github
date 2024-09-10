@@ -1,6 +1,9 @@
 import java.util.Scanner;
 public class Calculator{
     //Arithmetic Calculator
+    public int multiplication(int a, int b){
+        return a*b;
+    }
     
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
